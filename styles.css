@@ -229,11 +229,14 @@ h3{
                     align-items: center;
                     justify-content: center;
                 }
-                    #service-box-1, #service-box-4{
+                    #service-box-1{
                         background-color: rgb(72, 97, 72);
                     }
                     #service-box-2{
                         background-color: #290e0e;
+                    }
+                    #service-box-4{
+                        background-color: tan;
                     }
                         #service-img-box-1{
                             background-image: url(images/skincare.avif);
